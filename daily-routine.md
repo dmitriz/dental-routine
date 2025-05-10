@@ -1,13 +1,14 @@
 # Comprehensive Daily Dental Routine
 
-This protocol outlines a full day of sustainable, evidence-informed de### Important Note
+This protocol outlines a full day of sustainable, evidence-informed de## Important Note
 
 Do **not brush immediately** after oil pulling or rinsing.  
 Wait **20–30 minutes** to allow enamel—softened by exposure to acids or emulsified oil—to begin **natural remineralization** via saliva.
 
-### Contraindications
+## Contraindications
 
 Avoid using strong salt or soda rinses if you experience:
+
 - Oral tissue irritation
 - Dry mouth (xerostomia)
 - Open wounds or ulcers—integrating modern dentistry with traditional practices like oil pulling. The focus is on protecting enamel, reducing bacteria, and supporting systemic balance through consistent and gentle routines.
@@ -99,7 +100,7 @@ Avoid using strong salt or soda rinses if you experience:
 
 **Timing:** Begin rinsing immediately after spitting out the oil. Swish your chosen rinse for a total of **30 seconds**.
 
-### Rinse Options:
+### Rinse Options
 
 - **Plain Water**  
   - Easiest, low-effort option. Helps mechanically remove visible residue.  
@@ -117,11 +118,14 @@ Avoid using strong salt or soda rinses if you experience:
   - Recommended for **intermittent use** unless medically indicated—daily use may alter oral microbiome balance.
 
 ### Important Note
+
 Do **not brush immediately** after oil pulling or rinsing.  
 Wait **20–30 minutes** to allow enamel—softened by exposure to acids or emulsified oil—to begin **natural remineralization** via saliva.
 
-### Contraindications
+## Rinse Contraindications
+
 Avoid using strong salt or soda rinses if you experience:
+
 - Oral tissue irritation
 - Dry mouth (xerostomia)
 - Open wounds or ulcers
