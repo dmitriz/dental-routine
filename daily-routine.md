@@ -69,16 +69,15 @@ This protocol outlines a full day of sustainable, evidence-informed dental care�
 ## 5. Oil Pulling (Kavala Graha)
 
 - **Oil Type:** Virgin coconut (preferred), sesame, or sunflower
-- **Amount:** 1 tbsp (10–15 ml); beginners may start with 1–2 tsp
+- **Amount:** 1 tbsp (10–15 ml); for beginners, consider starting with 1–2 tsp
 - **Swishing Technique:**
   - Gently move oil throughout all areas of the mouth
   - Avoid aggressive motion or jaw tension
   - Use cheek and tongue muscles only
-  - Tongue may assist in gently guiding oil behind teeth and along gums
-- **Breathing:** Through the nose; avoid tilting head back
-- **Duration:** 15–20 minutes (start with 5–10)
-- **Spit:** Into trash, not sink. **Do not swallow.**
-
+  - Allow your tongue to help guide the oil gently behind teeth and along gums
+- **Breathing:** Breathe through your nose; avoid tilting your head back
+- **Duration:** For beginners, start with 5–10 minutes and gradually progress to 15–20 minutes as tolerated; do not exceed 20 minutes.
+- **Spit:** Discard the oil into the trash instead of the sink. **Do not swallow.**
 ---
 ### 6. Post-Pulling Rinse
 
