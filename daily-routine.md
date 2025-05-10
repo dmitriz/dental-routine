@@ -7,11 +7,13 @@ This protocol outlines a full day of sustainable, evidence-informed dental careâ
 ## Introduction
 
 **Goals:**
+
 - Maintain long-term oral health
 - Prevent decay, gum disease, and staining
 - Reduce systemic inflammation through oral detox practices
 
 **Principles:**
+
 - Combine modern and traditional approaches (Ayurveda + clinical dentistry)
 - Gentle, consistent methods with minimal abrasion
 - Sequence and timing matter: some practices are only effective in proper order
@@ -78,7 +80,9 @@ This protocol outlines a full day of sustainable, evidence-informed dental careâ
 - **Breathing:** Breathe through your nose; avoid tilting your head back
 - **Duration:** For beginners, start with 5â€“10 minutes and gradually progress to 15â€“20 minutes as tolerated; do not exceed 20 minutes.
 - **Spit:** Discard the oil into the trash instead of the sink. **Do not swallow.**
+
 ---
+
 ### 6. Post-Pulling Rinse
 
 - **Rinse Type:** Warm water; optionally add a pinch of salt
@@ -86,6 +90,7 @@ This protocol outlines a full day of sustainable, evidence-informed dental careâ
 - **Purpose:** Remove emulsified oil and bacteria, restore neutral pH
 
 ---
+
 ### 7. Brushing
 
 - **Timing:** Wait **20â€“30 minutes** after oil pulling + rinse
@@ -97,6 +102,7 @@ This protocol outlines a full day of sustainable, evidence-informed dental careâ
   - Spend ~30 seconds per quadrant (total 2 minutes)
 - **Tongue Cleaning:** Use a scraper or brush gently
 - **Avoid Swallowing** toothpaste; rinse thoroughly
+
 ---
 
 ## Midday Meals & Snacks
@@ -105,11 +111,24 @@ This protocol outlines a full day of sustainable, evidence-informed dental careâ
 - **Avoid Brushing Immediately After Acidic Foods**
 - **Wait:** 30 minutes before brushing if possible
 
+### Post-Fruit or Acidic Snack Rinsing Protocol
+
+- After eating fruit (especially acidic types), rinse your mouth to reduce acid and protect enamel.
+- Use **plain or warm water**, swish thoroughly for **20â€“30 seconds total**.
+- Itâ€™s fine to split this into **2â€“3 short rinses** (e.g., swish for 10 seconds, swallow, repeat).
+- During rinsing, you may:
+  - **Gently move your tongue** to help guide water between teeth and toward the back of the mouth
+  - Avoid forceful scraping or pushing against teeth
+  - **Swish the water actively**, using cheeks and lips to circulate it through all areas
+- Spit or swallow as preferred (safe with plain water)
+- Wait **30 minutes** before brushing if the fruit was acidic
+
 ---
 
 ## Evening Protocol
 
 ### Optional: Second Oil Pulling
+
 - Only if desired
 - Can help reduce nighttime breath odor
 - Use shorter duration (5â€“10 min) if already done in the morning
@@ -125,15 +144,18 @@ This protocol outlines a full day of sustainable, evidence-informed dental careâ
 ## Supplementary Practices
 
 ### Tongue Scraping
+
 - Best done in the **morning**
 - Improves oral hygiene and breath
 - Not replaced by brushing the tongue
 
 ### Interdental Brushes
+
 - Use if floss does not reach all areas
 - Especially useful around bridges, crowns, or wide gaps
 
 ### Mouthwash (Optional)
+
 - Use alcohol-free, fluoride-containing rinses at night if advised
 - Do not rinse with water afterward to retain fluoride effect
 
