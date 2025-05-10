@@ -91,7 +91,7 @@ This guide lists the core tools used in modern and integrative dental routines, 
 
 ### What to Avoid:
 - Frequent use of alcohol-based rinses (drying effect)
-- Rinsing with water **immediately after fluoride mouthwash** (reduces effect)
+Wait at least 30 minutes before rinsing with water after using fluoride mouthwash to ensure its effectiveness.
 - Eating or drinking for at least 30 minutes after using fluoride products
 - Eating or drinking for at least 30 minutes after using fluoride products
 
