@@ -105,23 +105,28 @@ This protocol outlines a full day of sustainable, evidence-informed dental care�
 
 ---
 
-## Midday Meals & Snacks
+## Midday Meal Guidelines
 
 - **Rinse After Eating:** Especially if fruit, vinegar, or sweets were consumed
 - **Avoid Brushing Immediately After Acidic Foods**
 - **Wait:** 30 minutes before brushing if possible
 
-### Post-Fruit or Acidic Snack Rinsing Protocol
+## Post-Meal Rinse Protocol
 
-- After eating fruit (especially acidic types), rinse your mouth to reduce acid and protect enamel.
-- Use **plain or warm water**, swish thoroughly for **20–30 seconds total**.
-- It’s fine to split this into **2–3 short rinses** (e.g., swish for 10 seconds, swallow, repeat).
-- During rinsing, you may:
-  - **Gently move your tongue** to help guide water between teeth and toward the back of the mouth
-  - Avoid forceful scraping or pushing against teeth
-  - **Swish the water actively**, using cheeks and lips to circulate it through all areas
-- Spit or swallow as preferred (safe with plain water)
-- Wait **30 minutes** before brushing if the fruit was acidic
+- **Rinse after eating**, especially if you’ve had fruit, sweets, or acidic foods.
+- **Avoid brushing immediately** after acidic foods to prevent enamel abrasion.
+- **Wait at least 30 minutes** before brushing.
+
+### 🍎 Post-Fruit Rinsing Protocol
+
+- Use **plain or warm water**.
+- Swish thoroughly for a **total of 20–30 seconds**.
+- You can divide this into multiple short rinses (e.g., swish for 10 seconds, swallow or spit, repeat).
+- While swishing:
+  - **Move water around the mouth** using gentle cheek and lip movement.
+  - Optionally, **gently move your tongue** to help guide water between teeth and around the mouth.
+  - No need to press or scrape—just natural, light motion.
+- Swallow or spit the water based on your preference (if water is clean).
 
 ---
 
