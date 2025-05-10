@@ -87,8 +87,7 @@ This protocol outlines a full day of sustainable, evidence-informed dental careâ
 - **Purpose:** Remove emulsified oil and bacteria, restore neutral pH
 
 ---
-
-## 7. Brushing
+### 7. Brushing
 
 - **Timing:** Wait **20â€“30 minutes** after oil pulling + rinse
 - **Toothpaste:** Fluoride-based (unless advised otherwise)
@@ -99,7 +98,6 @@ This protocol outlines a full day of sustainable, evidence-informed dental careâ
   - Spend ~30 seconds per quadrant (total 2 minutes)
 - **Tongue Cleaning:** Use a scraper or brush gently
 - **Avoid Swallowing** toothpaste; rinse thoroughly
-
 ---
 
 ## Midday Meals & Snacks
