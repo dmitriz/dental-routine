@@ -1,6 +1,16 @@
 # Comprehensive Daily Dental Routine
 
-This protocol outlines a full day of sustainable, evidence-informed dental care—integrating modern dentistry with traditional practices like oil pulling. The focus is on protecting enamel, reducing bacteria, and supporting systemic balance through consistent and gentle routines.
+This protocol outlines a full day of sustainable, evidence-informed de### Important Note
+
+Do **not brush immediately** after oil pulling or rinsing.  
+Wait **20–30 minutes** to allow enamel—softened by exposure to acids or emulsified oil—to begin **natural remineralization** via saliva.
+
+### Contraindications
+
+Avoid using strong salt or soda rinses if you experience:
+- Oral tissue irritation
+- Dry mouth (xerostomia)
+- Open wounds or ulcers—integrating modern dentistry with traditional practices like oil pulling. The focus is on protecting enamel, reducing bacteria, and supporting systemic balance through consistent and gentle routines.
 
 ---
 
@@ -83,11 +93,38 @@ This protocol outlines a full day of sustainable, evidence-informed dental care�
 
 ---
 
-### 6. Post-Pulling Rinse
+## 6. Post-Pulling Rinse
 
-- **Rinse Type:** Warm water; optionally add a pinch of salt
-- **Duration:** Swish for **20–30 seconds**
-- **Purpose:** Remove emulsified oil and bacteria, restore neutral pH
+**Purpose:** Remove residual oil and bacteria, normalize oral pH, and prepare the mouth for brushing.
+
+**Timing:** Begin rinsing immediately after spitting out the oil. Swish your chosen rinse for a total of **30 seconds**.
+
+### Rinse Options:
+
+- **Plain Water**  
+  - Easiest, low-effort option. Helps mechanically remove visible residue.  
+  - Less effective at dissolving oil due to its hydrophobic nature, but still better than skipping.
+
+- **Salt Water (0.9–1.5% NaCl)**  
+  - Offers mild antiseptic and anti-inflammatory effects.  
+  - Shown to reduce *Streptococcus mutans* and *Lactobacillus spp.* in clinical studies.  
+  - Mix 1 tsp of non-iodized sea salt in 250 ml of warm water.
+
+- **Sodium Bicarbonate (NaHCO₃)**  
+  - Alkalizing rinse that elevates pH and buffers oral acids.  
+  - May reduce demineralization and mild sensitivity.  
+  - Mix ½ tsp baking soda in 250 ml warm water.  
+  - Recommended for **intermittent use** unless medically indicated—daily use may alter oral microbiome balance.
+
+### Important Note
+Do **not brush immediately** after oil pulling or rinsing.  
+Wait **20–30 minutes** to allow enamel—softened by exposure to acids or emulsified oil—to begin **natural remineralization** via saliva.
+
+### Contraindications
+Avoid using strong salt or soda rinses if you experience:
+- Oral tissue irritation
+- Dry mouth (xerostomia)
+- Open wounds or ulcers
 
 ---
 
