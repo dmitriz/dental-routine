@@ -80,8 +80,7 @@ This protocol outlines a full day of sustainable, evidence-informed dental careâ
 - **Spit:** Into trash, not sink. **Do not swallow.**
 
 ---
-
-## 6. Post-Pulling Rinse
+### 6. Post-Pulling Rinse
 
 - **Rinse Type:** Warm water; optionally add a pinch of salt
 - **Duration:** Swish for **20â€“30 seconds**
