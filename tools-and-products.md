@@ -93,6 +93,7 @@ This guide lists the core tools used in modern and integrative dental routines, 
 - Frequent use of alcohol-based rinses (drying effect)
 - Rinsing with water **immediately after fluoride mouthwash** (reduces effect)
 - Eating or drinking for at least 30 minutes after using fluoride products
+- Eating or drinking for at least 30 minutes after using fluoride products
 
 ---
 
