@@ -52,7 +52,7 @@ This protocol outlines a full day of sustainable, evidence-informed dental careâ
 
 ---
 
-## 4. Flossing
+### 4. Flossing
 
 - **Timing:** Do this **before oil pulling**
 - **Technique:**
