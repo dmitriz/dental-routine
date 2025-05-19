@@ -12,8 +12,8 @@
 
 * **Carrots:** Crunchy, help clean teeth, source of vitamins.
 * **Lettuce (especially darker green varieties like Spinach, Kale):** High in vitamins and minerals, fiber.
-* **Spinach & Kale:** Particularly nutrient-dense leafy greens.
-* **Broccoli & Cauliflower (Cruciferous Vegetables):** Packed with vitamins and minerals.
+* **Spinach and Kale:** Particularly nutrient-dense leafy greens.
+* **Broccoli and Cauliflower (Cruciferous Vegetables):** Packed with vitamins and minerals.
 * **Celery:** Crunchy, high in fiber, helps clean teeth, low in calories.
 * **Bell Peppers (Red, Yellow, Green):** High in Vitamin C, crunchy. Generally safe, though high fiber can cause mild digestive issues for some if eaten in excess.
 * **Beans:** Excellent source of fiber, protein, calcium, and phosphorus (important for strong teeth).
@@ -33,10 +33,10 @@
 * **Cheese (e.g., Cheddar):** High in calcium, can help neutralize mouth acids, stimulates saliva.
   * **Considerations:** Contains fat and sodium, so moderation is key. Lower-fat options like mozzarella or feta can be considered.
 
-## Other Important Food Categories & Items
+## Other Important Food Categories and Items
 
 * **Grains:**
-  * You mentioned eating white and sticky rice. Suggestion was to incorporate more **whole grains** (like brown rice) for better nutritional value and fiber.
+  * Consider limiting white and sticky rice; choose whole grains for better nutrition and fiber.
 * **Proteins:**
   * **Fish (e.g., Pla Seek):** Good source of protein and omega-3 fatty acids.
 * **Processed Foods:**
@@ -67,7 +67,7 @@
 * **Brushing:**
   * **Frequency:** At least twice a day, ideally three times.
   * **Toothpaste Examples from this guide (others in `tools-and-products.md`):**
-    * *Boni Natural (Mint & Melaleuca/Tea Tree Oil):* Tea tree oil has natural antiseptic properties. Potentially good for loose teeth concerns.
+    * *Boni Natural (Mint and Melaleuca/Tea Tree Oil):* Tea tree oil has natural antiseptic properties. Potentially good for loose teeth concerns.
     * *SP-4 (with Probiotics):* May help balance oral flora.
     * *Wonder Smile (Whitening):* Focuses on whitening.
   * General advice on brushing technique, toothbrush types, specific timing (e.g., after oil pulling, after acidic foods), and other toothpaste types are covered in detail in `daily-routine.md` and `tools-and-products.md`.
@@ -80,7 +80,7 @@
 * **Loose Tooth:** (Your concern) While pain might be gone, persistent looseness should be monitored.
 * **Enamel Strength:** Key for preventing decay and sensitivity.
 * **Key Nutrients for Dental Health:**
-  * **Calcium & Phosphorus:** Build and protect enamel (dairy, beans, almonds, leafy greens).
+  * **Calcium and Phosphorus:** Build and protect enamel (dairy, beans, almonds, leafy greens).
   * **Vitamin C:** Essential for gum health (citrus fruits, berries, kiwis, bell peppers, broccoli).
   * **Vitamin A:** Good for healing and saliva production (leafy greens, carrots, fish).
   * **Fluoride:** Strengthens enamel and fights decay (fluoridated water, toothpaste, some mouthwashes).
