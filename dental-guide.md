@@ -57,11 +57,6 @@
   * Provides electrolytes.
   * Contains **natural sugars and calories**; drink in moderation.
   * **Rinse mouth with plain water** after drinking.
-* **Coffee:**
-  * Your instant coffee (one cup/morning) is generally fine.
-  * Coffee is **acidic**; can soften enamel.
-  * Be mindful of added sugar/creamer.
-  * **Rinse mouth with water** after drinking.
 * **Green Tea:**
   * Contains **antioxidants and compounds** that can help reduce inflammation, fight bacteria, and prevent gum disease.
 * **Beer:**
@@ -70,30 +65,13 @@
 ## Detailed Dental Hygiene Practices
 
 * **Brushing:**
-  * **Frequency:** At least twice a day, ideally three times (especially after meals).
-  * **Timing:** Wait about 30 minutes after consuming acidic or sugary foods/drinks before brushing to avoid damaging softened enamel.
-  * **Toothbrush:** Use a **soft-bristled toothbrush** to avoid gum damage. Replace every 3-4 months or when bristles fray.
-  * **Toothpaste:** Use fluoride toothpaste.
-    * *Your toothpastes:*
-      * **Boni Natural (Mint & Melaleuca/Tea Tree Oil):** Tea tree oil has natural antiseptic properties. Potentially good for loose teeth concerns.
-      * **SP-4 (with Probiotics):** May help balance oral flora.
-      * **Wonder Smile (Whitening):** Focuses on whitening.
-    * Using different toothpastes (e.g., morning/evening) is acceptable.
-* **Flossing:**
-  * **Frequency:** At least once daily.
-  * **Timing:** Best done *before* oil pulling or brushing to loosen debris.
-* **Oil Pulling (e.g., with Coconut Oil):**
-  * Involves swishing oil for 15-20 minutes.
-  * *May* help reduce plaque and gingivitis (some studies suggest this, but more research is needed).
-  * **Does not replace** regular brushing and flossing.
-* **Rinsing:**
-  * Rinse mouth with plain water for about 30 seconds immediately after consuming sugary or acidic items. Spit out the water.
-* **Tongue Cleaning:**
-  * Use a **tongue scraper** or gently brush your tongue to remove bacteria and food debris, freshening breath.
-* **Mouthwash:**
-  * Can be a helpful addition.
-  * **Antibacterial mouthwash:** Kills germs.
-  * **Fluoride mouthwash:** Strengthens enamel.
+  * **Frequency:** At least twice a day, ideally three times.
+  * **Toothpaste Examples from this guide (others in `tools-and-products.md`):**
+    * *Boni Natural (Mint & Melaleuca/Tea Tree Oil):* Tea tree oil has natural antiseptic properties. Potentially good for loose teeth concerns.
+    * *SP-4 (with Probiotics):* May help balance oral flora.
+    * *Wonder Smile (Whitening):* Focuses on whitening.
+  * General advice on brushing technique, toothbrush types, specific timing (e.g., after oil pulling, after acidic foods), and other toothpaste types are covered in detail in `daily-routine.md` and `tools-and-products.md`.
+
 * **Using Straws:**
   * Use for sugary or acidic drinks to help the liquid bypass your teeth, reducing direct contact.
 
