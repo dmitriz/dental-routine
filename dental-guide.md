@@ -79,8 +79,12 @@
 
 * **Loose Tooth:** (Your concern) While pain might be gone, persistent looseness should be monitored.
 * **Enamel Strength:** Key for preventing decay and sensitivity.
-* **Key Nutrients for Dental Health:**
-  * **Calcium and Phosphorus:** Build and protect enamel (dairy, beans, almonds, leafy greens).
-  * **Vitamin C:** Essential for gum health (citrus fruits, berries, kiwis, bell peppers, broccoli).
-  * **Vitamin A:** Good for healing and saliva production (leafy greens, carrots, fish).
-  * **Fluoride:** Strengthens enamel and fights decay (fluoridated water, toothpaste, some mouthwashes).
+
+**Key Nutrients for Dental Health:**
+
+| Nutrient             | Role                                         | Sources                                              |
+|----------------------|----------------------------------------------|------------------------------------------------------|
+| Calcium & Phosphorus | Build and protect enamel                     | Dairy, beans, almonds, leafy greens                  |
+| Vitamin C            | Essential for gum health                     | Citrus fruits, berries, kiwis, bell peppers, broccoli |
+| Vitamin A            | Good for healing and saliva production       | Leafy greens, carrots, fish                          |
+| Fluoride             | Strengthens enamel and fights decay          | Fluoridated water, toothpaste, some mouthwashes      |
