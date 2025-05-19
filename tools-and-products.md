@@ -31,13 +31,13 @@ This guide lists the core tools used in modern and integrative dental routines, 
 
 ## 2. Toothbrushes
 
-### Manual Brushes
+### What to Look For with Manual Brushes
 
 - **Ultra-soft bristles** (e.g., Curaprox 5460)
 - **Small head** for maneuverability
 - **Gentle circular motion** recommended
 
-### Electric Brushes
+### What to Look For with Electric Brushes
 
 - **Oscillating (Oral-B)** or **Sonic (Philips Sonicare)**
 - Built-in **2-minute timer**
@@ -54,7 +54,7 @@ This guide lists the core tools used in modern and integrative dental routines, 
 
 ## 3. Toothpastes
 
-### Key Options
+### What to Look For in Toothpaste
 
 - **Fluoride toothpastes**: Protect against cavities, remineralize enamel
   - *Colgate Total SF*, *Sensodyne Pronamel*
@@ -64,7 +64,7 @@ This guide lists the core tools used in modern and integrative dental routines, 
 - **Probiotic or herbal toothpastes**: Supportive, not substitutes
   - Guava, aloe, tea tree, coconut oil are common ingredients
 
-### What to Avoid with Toothpastes
+### What to Avoid with Toothpaste
 
 - Abrasive whitening pastes (daily use)
 - Pastes with harsh foaming agents (e.g., SLS) if sensitive
