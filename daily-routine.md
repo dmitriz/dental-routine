@@ -157,6 +157,10 @@ Oil pulling removes bacteria mechanically; salt water targets residual pathogens
 - [Natrusmile – Oil Pulling and Salt Rinse](https://www.natrusmile.com/blogs/news/benefits-of-oil-pulling)  
 - [Applewood Dental – Salt Rinse Benefits](https://applewooddental.ca/5-reasons-salt-water-rinses-good-health/)
 
+- **Rinse Type:** Warm salt water (0.9–1.5% NaCl; mix ½ to 1 tsp table salt per 250 ml warm water)
+- **Duration:** Swish for **20–30 seconds**
+- **Purpose:** Remove emulsified oil and bacteria, restore neutral pH
+
 ### Post-Pulling Waiting Period
 
 Do **not brush immediately** after oil pulling or rinsing.  
