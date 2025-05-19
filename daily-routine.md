@@ -1,6 +1,19 @@
 # Comprehensive Daily Dental Routine
 
-This protocol outlines a full day of sustainable, evidence-informed dental care—integrating modern dentistry with traditional practices like oil pulling. The focus is on protecting enamel, reducing bacteria, and supporting systemic balance through consistent and gentle routines.
+This protocol outlines a full day of sustainable, evidence-informed dental care practices, combining modern dentistry with traditional approaches.
+
+## Important Note
+
+Do **not brush immediately** after oil pulling or rinsing.  
+Wait **20–30 minutes** to allow enamel—softened by exposure to acids or emulsified oil—to begin **natural remineralization** via saliva.
+
+## Contraindications
+
+Avoid using strong salt or soda rinses if you experience:
+
+- Oral tissue irritation
+- Dry mouth (xerostomia)
+- Open wounds or ulcers—integrating modern dentistry with traditional practices like oil pulling. The focus is on protecting enamel, reducing bacteria, and supporting systemic balance through consistent and gentle routines.
 
 ---
 
@@ -83,11 +96,71 @@ This protocol outlines a full day of sustainable, evidence-informed dental care�
 
 ---
 
-### 6. Post-Pulling Rinse
+## 6. Post-Oil Pulling Rinse
 
-- **Rinse Type:** Warm water; optionally add a pinch of salt
-- **Duration:** Swish for **20–30 seconds**
-- **Purpose:** Remove emulsified oil and bacteria, restore neutral pH
+**Purpose:** Remove residual oil and bacteria, normalize oral pH, and prepare the mouth for brushing.
+
+**Timing:** Begin rinsing immediately after spitting out the oil. Swish your chosen rinse for a total of **30 seconds**.
+
+### Rinse Options
+
+- **Plain Water**  
+  - Easiest, low-effort option. Helps mechanically remove visible residue.  
+  - Less effective at dissolving oil due to its hydrophobic nature, but better than skipping..
+
+- **Salt Water (0.9–1.5% NaCl)**  
+  - Offers mild antiseptic and anti-inflammatory effects.  
+  - Creates osmotic pressure that dehydrates and kills oral bacteria like *Streptococcus mutans*.  
+  - Helps raise oral pH, reducing acid-loving bacterial regrowth.  
+  - Works through osmotic dehydration to disrupt bacterial cell membranes.
+  - Mix 1 tsp of sea salt in 8 oz (250 ml) of warm water for a 0.9–1.5% concentration.
+  - Studies show effectiveness against *S. mutans* and other oral pathogens.
+  - Gentler than alcohol-based mouthwashes and safe for daily use.  
+  - Avoid high concentrations if you have oral lesions or dry mouth.
+
+- **Sodium Bicarbonate (NaHCO₃)**  
+  - Alkalizing rinse that elevates pH and buffers oral acids.  
+  - May reduce demineralization and mild sensitivity.  
+  - Mix ½ tsp baking soda in 250 ml warm water.  
+  - Recommended for **intermittent use** unless medically advised.
+
+### Why Salt Water May Be Preferred
+
+Rinsing with salt water after oil pulling offers distinct advantages over plain water by enhancing antimicrobial action and supporting oral pH balance.
+
+#### 1. Enhanced Bacterial Reduction
+
+Salt water dehydrates and kills bacteria, unlike plain water. Clinical data shows it reduces plaque and pathogens like *S. mutans*, offering dual-action cleansing when paired with oil pulling.
+
+#### 2. pH Balancing
+
+Salt water promotes an alkaline oral environment that discourages cavity-causing bacteria. Plain water lacks this buffering ability.
+
+#### 3. Gum Health Support
+
+Salt water soothes inflamed or irritated gum tissues, offering healing benefits post-pulling. Plain water provides no anti-inflammatory effects.
+
+#### 4. Complementary to Oil Pulling's Effects
+
+Oil pulling removes bacteria mechanically; salt water targets residual pathogens and neutralizes acids. Together they offer a more complete oral cleanse.
+
+---
+
+### Citations
+
+- [Healthline – Salt Water Rinse](https://www.healthline.com/health/dental-and-oral-health/salt-water-rinse)  
+- [Texas Holistic Dentist](https://texasholisticdentist.com/blog/oil-pulling/)  
+- [Pasadena Smile Center](https://www.pasadenasmilecenter.com/blog/2019/06/14/coconut-oil-and-sea-salt-for-improved-oral-health/)  
+- [Healthline – Oil Pulling](https://www.healthline.com/nutrition/oil-pulling-coconut-oil)  
+- [BetterBiom – Oil Pulling Duration](https://betterbiom.com/blogs/learn/how-long-should-you-oil-pull)  
+- [Sendhil Dental – Salt Water Rinse Benefits](https://www.sendhildental.com/5-benefits-of-salt-water-on-dental-health/)  
+- [Natrusmile – Oil Pulling and Salt Rinse](https://www.natrusmile.com/blogs/news/benefits-of-oil-pulling)  
+- [Applewood Dental – Salt Rinse Benefits](https://applewooddental.ca/5-reasons-salt-water-rinses-good-health/)
+
+### Post-Pulling Waiting Period
+
+Do **not brush immediately** after oil pulling or rinsing.  
+Wait **20–30 minutes** to allow enamel—softened by exposure to acids or emulsified oil—to begin **natural remineralization** via saliva.
 
 ---
 
@@ -199,5 +272,3 @@ This protocol outlines a full day of sustainable, evidence-informed dental care�
 - Healthline, Mayo Clinic, Tufts Now
 - Ayurveda.org and Ayurvedic texts on Kavala Graha
 - Peer-reviewed studies on oil pulling and oral hygiene best practices
-
----
