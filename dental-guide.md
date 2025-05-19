@@ -11,8 +11,8 @@
 **Specific Vegetables Discussed:**
 
 * **Carrots:** Crunchy, help clean teeth, source of vitamins.
-* **Lettuce (especially darker green varieties like Spinach, Kale):** High in vitamins and minerals, fiber.
-* **Spinach and Kale:** Particularly nutrient-dense leafy greens.
+* **Lettuce:** Provides fiber and some micronutrients; contributes to mechanical tooth cleaning.
+* **Leafy Greens (e.g., spinach, kale):** High in vitamins, minerals, and fiber.
 * **Broccoli and Cauliflower (Cruciferous Vegetables):** Packed with vitamins and minerals.
 * **Celery:** Crunchy, high in fiber, helps clean teeth, low in calories.
 * **Bell Peppers (Red, Yellow, Green):** High in vitamin C, crunchy. Generally safe, though high fiber can cause mild digestive issues for some if eaten in excess.
