@@ -1,4 +1,4 @@
-# Comprehensive Guide to Dental Health: Diet and Practices
+# Comprehensive Guide to Dental Health: Diet and Hygiene Practices
 
 ## Vegetables for Dental Health
 
@@ -38,7 +38,7 @@
 * **Grains:**
   * Consider limiting white and sticky rice; choose whole grains for better nutrition and fiber.
 * **Proteins:**
-  * **Fish (e.g., Pla Seek):** Good source of protein and omega-3 fatty acids.
+  * **Fish (e.g., salmon or Pla Seek - a Thai dried fish):** Good source of protein and omega-3 fatty acids.
 * **Processed Foods:**
   * **Sausages:** High in sodium and unhealthy fats; should be limited.
 * **Sugary Treats:**
@@ -80,15 +80,15 @@
 * **Tooth Mobility:** While pain may subside, persistent looseness should be monitored by a dental professional.
 * **Enamel Strength:** Key for preventing decay and sensitivity.
 
-**Key Nutrients for Dental Health:**
+### Key Nutrients for Dental Health
 
 * **Calcium and Phosphorus**
   * **Role:** Build and protect enamel
   * **Sources:** Dairy, beans, almonds, leafy greens
-* **vitamin C**
+* **Vitamin C**
   * **Role:** Essential for gum health
   * **Sources:** Citrus fruits, berries, kiwis, bell peppers, broccoli
-* **vitamin A**
+* **Vitamin A**
   * **Role:** Good for healing and saliva production
   * **Sources:** Leafy greens, carrots, fish
 * **Fluoride**
