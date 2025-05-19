@@ -1,6 +1,8 @@
 # Comprehensive Daily Dental Routine
 
-This protocol outlines a full day of sustainable, evidence-informed de## Important Note
+This protocol outlines a full day of sustainable, evidence-informed dental care practices, combining modern dentistry with traditional approaches.
+
+## Important Note
 
 Do **not brush immediately** after oil pulling or rinsing.  
 Wait **20–30 minutes** to allow enamel—softened by exposure to acids or emulsified oil—to begin **natural remineralization** via saliva.
@@ -110,6 +112,9 @@ Avoid using strong salt or soda rinses if you experience:
   - Offers mild antiseptic and anti-inflammatory effects.  
   - Creates osmotic pressure that dehydrates and kills oral bacteria like *Streptococcus mutans*.  
   - Helps raise oral pH, reducing acid-loving bacterial regrowth.  
+  - Works through osmotic dehydration to disrupt bacterial cell membranes.
+  - Mix 1 tsp of sea salt in 8 oz (250 ml) of warm water for a 0.9–1.5% concentration.
+  - Studies show effectiveness against *S. mutans* and other oral pathogens.
   - Mix 1 tsp of sea salt in 8 oz (250 ml) of warm water for a 0.7M rinse.  
   - Gentler than alcohol-based mouthwashes and safe for daily use.  
   - Avoid high concentrations if you have oral lesions or dry mouth.
@@ -153,18 +158,10 @@ Oil pulling removes bacteria mechanically; salt water targets residual pathogens
 - [Natrusmile – Oil Pulling and Salt Rinse](https://www.natrusmile.com/blogs/news/benefits-of-oil-pulling)  
 - [Applewood Dental – Salt Rinse Benefits](https://applewooddental.ca/5-reasons-salt-water-rinses-good-health/)
 
-### Important Note
+### Post-Pulling Waiting Period
 
 Do **not brush immediately** after oil pulling or rinsing.  
 Wait **20–30 minutes** to allow enamel—softened by exposure to acids or emulsified oil—to begin **natural remineralization** via saliva.
-
-## Rinse Contraindications
-
-Avoid using strong salt or soda rinses if you experience:
-
-- Oral tissue irritation
-- Dry mouth (xerostomia)
-- Open wounds or ulcers
 
 ---
 
