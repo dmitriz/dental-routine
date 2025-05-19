@@ -96,7 +96,7 @@ Avoid using strong salt or soda rinses if you experience:
 
 ---
 
-## 6. Post-Pulling Rinse
+## 6. Post-Oil Pulling Rinse
 
 **Purpose:** Remove residual oil and bacteria, normalize oral pH, and prepare the mouth for brushing.
 
