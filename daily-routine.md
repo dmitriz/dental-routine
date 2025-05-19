@@ -85,7 +85,7 @@ This protocol outlines a full day of sustainable, evidence-informed dental care�
 
 ### 6. Post-Pulling Rinse
 
-- **Rinse Type:** Warm water; optionally add a pinch of salt
+- **Rinse Type:** Warm salt water (0.9–1.5% NaCl; mix ½ to 1 tsp table salt per 250 ml warm water)
 - **Duration:** Swish for **20–30 seconds**
 - **Purpose:** Remove emulsified oil and bacteria, restore neutral pH
 
