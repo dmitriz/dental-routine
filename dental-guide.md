@@ -28,7 +28,7 @@
 **Specific Items Discussed:**
 
 * **Cow's Milk:** Good source of calcium and Vitamin D.
-* **Soy Milk:** Good alternative, especially if lactose intolerant (though you mentioned you are not). Provides protein; ensure it's fortified with calcium if using as a primary calcium source.
+* **Soy Milk:** Good alternative, especially if lactose intolerant. Provides protein; ensure it's fortified with calcium if using as a primary calcium source.
 * **Yogurt:** Excellent source of calcium and often contains probiotics (beneficial for oral and gut health).
 * **Cheese (e.g., Cheddar):** High in calcium, can help neutralize mouth acids, stimulates saliva.
   * **Considerations:** Contains fat and sodium, so moderation is key. Lower-fat options like mozzarella or feta can be considered.
@@ -67,7 +67,7 @@
 * **Brushing:**
   * **Frequency:** At least twice a day, ideally three times.
   * **Toothpaste Examples from this guide (others in `tools-and-products.md`):**
-    * *Boni Natural (Mint and Melaleuca/Tea Tree Oil):* Tea tree oil has natural antiseptic properties. Potentially good for loose teeth concerns.
+    * *Boni Natural (Mint and Melaleuca/Tea Tree Oil):* Tea tree oil has natural antiseptic properties. Potentially beneficial for tooth mobility issues.
     * *SP-4 (with Probiotics):* May help balance oral flora.
     * *Wonder Smile (Whitening):* Focuses on whitening.
   * General advice on brushing technique, toothbrush types, specific timing (e.g., after oil pulling, after acidic foods), and other toothpaste types are covered in detail in `daily-routine.md` and `tools-and-products.md`.
@@ -75,9 +75,9 @@
 * **Using Straws:**
   * Use for sugary or acidic drinks to help the liquid bypass your teeth, reducing direct contact.
 
-## Specific Dental Concerns and Key Nutrients
+## Common Dental Concerns and Key Nutrients
 
-* **Loose Tooth:** (Your concern) While pain might be gone, persistent looseness should be monitored.
+* **Tooth Mobility:** While pain may subside, persistent looseness should be monitored by a dental professional.
 * **Enamel Strength:** Key for preventing decay and sensitivity.
 
 **Key Nutrients for Dental Health:**
