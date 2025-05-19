@@ -82,9 +82,15 @@
 
 **Key Nutrients for Dental Health:**
 
-| Nutrient             | Role                                         | Sources                                              |
-|----------------------|----------------------------------------------|------------------------------------------------------|
-| Calcium & Phosphorus | Build and protect enamel                     | Dairy, beans, almonds, leafy greens                  |
-| Vitamin C            | Essential for gum health                     | Citrus fruits, berries, kiwis, bell peppers, broccoli |
-| Vitamin A            | Good for healing and saliva production       | Leafy greens, carrots, fish                          |
-| Fluoride             | Strengthens enamel and fights decay          | Fluoridated water, toothpaste, some mouthwashes      |
+* **Calcium and Phosphorus**
+  * **Role:** Build and protect enamel
+  * **Sources:** Dairy, beans, almonds, leafy greens
+* **Vitamin C**
+  * **Role:** Essential for gum health
+  * **Sources:** Citrus fruits, berries, kiwis, bell peppers, broccoli
+* **Vitamin A**
+  * **Role:** Good for healing and saliva production
+  * **Sources:** Leafy greens, carrots, fish
+* **Fluoride**
+  * **Role:** Strengthens enamel and fights decay
+  * **Sources:** Fluoridated water, toothpaste, some mouthwashes
