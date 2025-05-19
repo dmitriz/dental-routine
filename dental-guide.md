@@ -15,7 +15,7 @@
 * **Spinach and Kale:** Particularly nutrient-dense leafy greens.
 * **Broccoli and Cauliflower (Cruciferous Vegetables):** Packed with vitamins and minerals.
 * **Celery:** Crunchy, high in fiber, helps clean teeth, low in calories.
-* **Bell Peppers (Red, Yellow, Green):** High in Vitamin C, crunchy. Generally safe, though high fiber can cause mild digestive issues for some if eaten in excess.
+* **Bell Peppers (Red, Yellow, Green):** High in vitamin C, crunchy. Generally safe, though high fiber can cause mild digestive issues for some if eaten in excess.
 * **Beans:** Excellent source of fiber, protein, calcium, and phosphorus (important for strong teeth).
 
 ## Dairy Products and Alternatives
@@ -27,7 +27,7 @@
 
 **Specific Items Discussed:**
 
-* **Cow's Milk:** Good source of calcium and Vitamin D.
+* **Cow's Milk:** Good source of calcium and vitamin D.
 * **Soy Milk:** Good alternative, especially if lactose intolerant. Provides protein; ensure it's fortified with calcium if using as a primary calcium source.
 * **Yogurt:** Excellent source of calcium and often contains probiotics (beneficial for oral and gut health).
 * **Cheese (e.g., Cheddar):** High in calcium, can help neutralize mouth acids, stimulates saliva.
@@ -85,10 +85,10 @@
 * **Calcium and Phosphorus**
   * **Role:** Build and protect enamel
   * **Sources:** Dairy, beans, almonds, leafy greens
-* **Vitamin C**
+* **vitamin C**
   * **Role:** Essential for gum health
   * **Sources:** Citrus fruits, berries, kiwis, bell peppers, broccoli
-* **Vitamin A**
+* **vitamin A**
   * **Role:** Good for healing and saliva production
   * **Sources:** Leafy greens, carrots, fish
 * **Fluoride**
