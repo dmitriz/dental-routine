@@ -6,7 +6,7 @@ This guide lists the core tools used in modern and integrative dental routines, 
 
 ## 1. Floss
 
-### What to Look For
+### What to Look For with Floss
 
 - **Waxed floss** for easier glide and reduced shredding
 - **Dental tape** for tight teeth (flat, wide, gentle)
@@ -20,7 +20,7 @@ This guide lists the core tools used in modern and integrative dental routines, 
 - Snapping floss into gums
 - Using picks as a substitute for regular flossing (unless necessary)
 
-### Example Types
+### Floss Examples
 
 - *Oral-B Glide Comfort Plus* (smooth, tape style)
 - *Cocofloss* (textured, deep cleaning)
@@ -101,10 +101,10 @@ This guide lists the core tools used in modern and integrative dental routines, 
 - After brushing at night (fluoride)
 - After flossing or tongue cleaning (herbal)
 
-### What to Avoid
+### What to Avoid with Mouthwash
 
 - Frequent use of alcohol-based rinses (drying effect)
-- Rinsing with water immediately after using fluoride mouthwash (wait at least 30 minutes to ensure effectiveness)
+- Avoid rinsing with water immediately after fluoride mouthwash; wait at least 30 minutes for full benefit.
 - Eating or drinking for at least 30 minutes after using fluoride products
 
 ---

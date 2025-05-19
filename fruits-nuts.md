@@ -10,7 +10,7 @@ Fruits are rich in vitamins, minerals, and fiber, which contribute to overall de
 - Increase saliva flow, which helps wash away food particles and bacteria
 - Some fruits have natural antibacterial properties
 
-### Examples
+### Fruit Examples
 
 - **Apples:** Their fibrous texture stimulates gums and increases saliva.
 - **Strawberries:** Contain malic acid, which can help whiten teeth naturally.
