@@ -47,4 +47,3 @@ The goal is to maintain long-term oral health through structured, sustainable, a
 This repository is curated by [@dmitriz](https://github.com/dmitriz) with support from Dental GPT.
 
 ---
-
