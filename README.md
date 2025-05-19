@@ -24,14 +24,40 @@ This repository aims to provide well-researched, practical guidance for maintain
 - Prioritize gentle, sustainable approaches that prevent damage
 - Support both oral and systemic health through comprehensive care
 
-## References
+This repository contains a research-based, daily dental care protocol that blends modern dentistry with complementary practices like oil pulling, tongue scraping, and natural product use.
 
-The protocols in this repository draw from peer-reviewed research, clinical dental practice guidelines, and traditional wellness systems like Ayurveda.
+The goal is to maintain long-term oral health through structured, sustainable, and evidence-informed habits.
 
-## Contributing
+---
 
-Contributions, corrections, and suggestions are welcome. Please provide scientific references or traditional sources to support proposed changes.
+## 💡 What This Includes
 
-## License
+- Morning and evening oral care sequences
+- Oil pulling technique and timing
+- Safe brushing and flossing methods
+- Evidence-backed recommendations on when to rinse, brush, and eat
+- Optional Ayurvedic practices (e.g., tongue scraping, tongue oiling)
 
-This work is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+---
+
+## 🧠 Philosophy
+
+- Gentle, effective, low-abrasion techniques
+- Use of both clinical and traditional methods
+- Tailored for people with restorations, enamel wear, or sensitivity
+- Avoids dogma—flexible and evidence-based
+
+---
+
+## 📌 Status
+
+- ✅ Active and under ongoing refinement
+- 🚧 Additional sections (e.g., flossing protocol, brushing technique, product comparisons) may be added
+
+---
+
+## 👤 Maintainer
+
+This repository is curated by [@dmitriz](https://github.com/dmitriz) with support from Dental GPT.
+
+---
