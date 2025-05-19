@@ -115,7 +115,6 @@ Avoid using strong salt or soda rinses if you experience:
   - Works through osmotic dehydration to disrupt bacterial cell membranes.
   - Mix 1 tsp of sea salt in 8 oz (250 ml) of warm water for a 0.9–1.5% concentration.
   - Studies show effectiveness against *S. mutans* and other oral pathogens.
-  - Mix 1 tsp of sea salt in 8 oz (250 ml) of warm water for a 0.7M rinse.  
   - Gentler than alcohol-based mouthwashes and safe for daily use.  
   - Avoid high concentrations if you have oral lesions or dry mouth.
 
