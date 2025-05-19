@@ -15,7 +15,7 @@ This repository contains evidence-informed protocols and guides for comprehensiv
 
 ## Purpose
 
-This repository aims to provide well-researched, practical guidance for maintaining long-term oral health through gentle, consistent routines that protect enamel, reduce bacteria, and support systemic balance.
+This repository aims to provide well-researched, practical guidance for maintaining long-term oral health through gentle, consistent routines that protect enamel, reduce bacteria, and support systemic balance throughout daily life.
 
 ## Principles
 

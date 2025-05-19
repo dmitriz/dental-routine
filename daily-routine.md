@@ -106,7 +106,7 @@ Avoid using strong salt or soda rinses if you experience:
 
 - **Plain Water**  
   - Easiest, low-effort option. Helps mechanically remove visible residue.  
-  - Less effective at dissolving oil due to its hydrophobic nature, but better than skipping.
+  - Less effective at dissolving oil due to its hydrophobic nature, but better than skipping..
 
 - **Salt Water (0.9–1.5% NaCl)**  
   - Offers mild antiseptic and anti-inflammatory effects.  
